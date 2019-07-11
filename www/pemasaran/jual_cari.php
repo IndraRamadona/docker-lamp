@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="lightgreen" background="../pict/6.jpg" >
+<body bgcolor="lightgreen" background="../pict/3.jpg" >
 <form action="jual_tampil.php" method="post">
 <h2>~::CARI DATA Penjualan::~</h2>
 Kode Barang<input type="text" name="cari" />
