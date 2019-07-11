@@ -1,6 +1,6 @@
 <html>
 <title>
- SELAMAT DATANG
+ Indra Ramadona
 </title>
 <body bgcolor="lightgreen" background="pict/3.jpg" >
 <h1 align="center"><font color="white">Selamat datang</font></h1></br> 
