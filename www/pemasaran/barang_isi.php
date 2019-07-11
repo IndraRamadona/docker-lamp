@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="lightgreen" background="../pict/triangle-.jpg" >
+<body bgcolor="lightgreen" background="../pict/3.jpg" >
 <h2 align="center">.:: Input Barang ::.</h2>
 <form action="barang_simpan.php" method="post" >
 	<table border="1" align="center">
