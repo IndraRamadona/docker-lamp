@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="lightgreen" background="../pict/4.png" >
+<body bgcolor="lightgreen" background="../pict/3.png" >
 <?php
 $kode_brg = $_GET['kode_brg'];
 include "../koneksi.php";
