@@ -1,5 +1,5 @@
 <html>
-<body bgcolor="lightgreen" background="../pict/1.png" >
+<body bgcolor="lightgreen" background="../pict/3.png" >
 <?php
 $cari="";
 if(isset($_POST["cari"]))
